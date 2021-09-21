@@ -1,0 +1,7 @@
+C:\Users\Kedco\source\repos\Adventure\Adventure\bin\Debug\Adventure.exe.config
+C:\Users\Kedco\source\repos\Adventure\Adventure\bin\Debug\Adventure.exe
+C:\Users\Kedco\source\repos\Adventure\Adventure\bin\Debug\Adventure.pdb
+C:\Users\Kedco\source\repos\Adventure\Adventure\obj\Debug\Adventure.csprojAssemblyReference.cache
+C:\Users\Kedco\source\repos\Adventure\Adventure\obj\Debug\Adventure.csproj.CoreCompileInputs.cache
+C:\Users\Kedco\source\repos\Adventure\Adventure\obj\Debug\Adventure.exe
+C:\Users\Kedco\source\repos\Adventure\Adventure\obj\Debug\Adventure.pdb
