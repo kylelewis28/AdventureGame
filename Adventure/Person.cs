@@ -22,6 +22,7 @@ namespace Adventure
         public Person() { }
 
         public Person(string name, int age, GradeType grade)
+            
         {
             Name = name;
             Age = age;
